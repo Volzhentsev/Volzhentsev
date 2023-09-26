@@ -1,9 +1,10 @@
-<h1 align="center">Hi there, I'm Sergey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1
+<h1 align="center">Hi there, I'm Sergey  👋<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="230">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=262250&width=555&lines=I+am+a+Frontend+developer+with+2.5%2B+experience;My+stack%3A+JavaScript%2C+TypeScript%2C++React%2C;+Redux%2C+Redux+Toolkit%2C+HTML%2C+CSS%2C+SCSS;I+like+to+travel+and+football%2C+;code+and+watch+movies" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=262250&width=555&lines=I+am+a+Frontend+developer;My+stack%3A+JavaScript%2C+TypeScript%2C++React%2C;+Redux%2C+Redux+Toolkit%2C+HTML%2C+CSS%2C+SCSS;I+like+to+code+and+travel%2C+;play football+and+watch+movies" alt="Typing SVG" /></a>
 
 <div id="badges" align="left">
   <a href="https://www.codewars.com/users/Volzhentsev">
