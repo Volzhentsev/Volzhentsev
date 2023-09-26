@@ -1,12 +1,9 @@
-<h1 align="center">Hi there, I'm Sergey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer from Russia 🇷🇺</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volzhentsev&layout=compact)](https://github.com/Volzhentsev/github-readme-stats)
+<h1 align="center">Hi there, I'm Sergey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1
 
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" />
 
-<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI0YTBkYjEyZDIxYzQ4NTE0MTcwMjI3MDZiN2VjMjYxM2M4MTFlYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=262250&width=555&lines=I+am+a+Frontend+developer+with+2.5%2B+experience;My+stack%3A+JavaScript%2C+TypeScript%2C++React%2C;+Redux%2C+Redux+Toolkit%2C+HTML%2C+CSS%2C+SCSS;I+like+to+travel+and+relax+in+the+wilderness%2C+;code+and+watch+ballet+and+soap+operas" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=262250&width=555&lines=I+am+a+Frontend+developer+with+2.5%2B+experience;My+stack%3A+JavaScript%2C+TypeScript%2C++React%2C;+Redux%2C+Redux+Toolkit%2C+HTML%2C+CSS%2C+SCSS;I+like+to+travel+and+football%2C+;code+and+watch+movies" alt="Typing SVG" /></a>
 
 <div id="badges" align="left">
   <a href="https://www.codewars.com/users/Volzhentsev">
@@ -19,29 +16,8 @@
 
  </div>
   
-  
-  
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const russia = {
-  pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, SCSS],
-  tools: [React, Redux, Redux Toolkit, Node, Express, Styled-Components, Jest, Docker, GIT, Jiro],
-  architecture: ["microservices", "atomic design", "model architecture"],
-  exploring: {
-                        next.js: "already in the midst of",
-                        vue.js: "halfway through",
-                        [React Native]: "really want to start"
-                      },
- hackathon: "I would love to participate with a fun and good team"
-}
-```
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love chatting with different people</b> so if you want to say <b>hi, I would be very happy to meet new people!</b> :)</em>
       
-
 ---
 
 <h3 align="left">Connect with me:</h3>
